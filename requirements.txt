@@ -4,5 +4,5 @@ streamlit==1.46.0
 matplotlib==3.10.3
 Seaborn==0.13.2
 Numpy==1.26.4
-sklearn==1.6.1
+scikit-learn==1.6.1
 matplotlib==3.10.3
